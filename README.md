@@ -21,7 +21,7 @@ The API should be running at http://localhost:5000
 ## Setting up the WEB (Frontend):
 
 
-Go to the project API base directory (..\VolvoWebEntry\Volvo_WEB), then:
+Go to the project WEB base directory (..\VolvoWebEntry\Volvo_WEB), then:
 Open a second CLI (command line or Windows Power Shell)
 - npm install
 - npm start
